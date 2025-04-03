@@ -23,4 +23,4 @@ Kontributor
 
     Roufiel Hadi (241524028) - Teknik Informatika, POLBAN
 
-Program ini adalah tugas pertemuan ke-7 mata kuliah Struktur Data dan Algoritma dengan dosen Pak Wendi Wirasta Masih banyak kekurangan pada program ini, mulai dari case sensitif pada input, belum ada fitur edit data, belum terintegrasi pada database, dll.
+Program ini adalah tugas pertemuan ke-7 mata kuliah Struktur Data dan Algoritma dengan dosen Pak Wendi Wirasta Masih banyak kekurangan pada program ini, mulai dari case sensitif pada input, belum terintegrasi pada database, dll.
